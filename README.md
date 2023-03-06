@@ -90,9 +90,14 @@ https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Part1_climate.i
 
 Graphs created for Part one are shown below:
 
-https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Precipitation_BarGraph.png
+Figure 1: This bar graph shows 12 months of precipitation data.
 
-https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Temp_Histogram.png
+![Precipitation_BarGraph](https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Precipitation_BarGraph.png)
+
+Figure 2: This hisogram shows 12 months of temperature observation (TOBS) data.
+
+![Temp_Histogram](https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Temp_Histogram.png)
+
 
 ### Part 2:  Design Your Climate App
 
