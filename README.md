@@ -85,4 +85,10 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 
 ### Part 1: Analyze and Explore the Climate Data
 
+The code for part one can be found under the "Part1_climate.ipnb" file. Linked below.
+https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Part1_climate.ipynb
+
 ### Part 2:  Design Your Climate App
+
+The code for part two can be found under the "Part2_ClimateApp.py" file. Linked below.
+https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Part2_ClimateApp.py
