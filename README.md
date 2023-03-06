@@ -92,6 +92,8 @@ Graphs created for Part one are shown below:
 
 https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Precipitation_BarGraph.png
 
+https://github.com/MaddyGutieruiz/sqlalchemy-challenge/blob/main/Temp_Histogram.png
+
 ### Part 2:  Design Your Climate App
 
 The code for part two can be found under the "Part2_ClimateApp.py" file. Linked below.
